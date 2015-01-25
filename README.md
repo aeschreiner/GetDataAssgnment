@@ -31,6 +31,7 @@ summary table had dimension 180 x 68, and this is what is output by run_analysis
 # code book
 
 The variables in the output are:
+
 1. subject id, ranging from 1-30
 2. activity id, ranging from 1-6, and present for each of the 30 subjects
 3. tBodyAcc.mean...X
